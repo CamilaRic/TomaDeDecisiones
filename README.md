@@ -1,2 +1,2 @@
 # IntroMarketingAnalytics
-Repositorio de Notebooks para análisis de datos emn
+Repositorio de Notebooks para análisis de datos
